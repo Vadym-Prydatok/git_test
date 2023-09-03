@@ -1,0 +1,15 @@
+header ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.section__first {
+  height: 200px;
+  background-color: aqua;
+}
+
+.section__second {
+  height: 200px;
+  background-color: yellow;
+}
